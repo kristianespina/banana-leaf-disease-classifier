@@ -1,0 +1,5 @@
+lightning_logs/*
+dataset/*
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
